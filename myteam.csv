@@ -1,0 +1,16 @@
+id,web_name,position_y,team_name,is_captain,now_cost,selling_price,selected_by_percent,event_points,total_points
+113,Sánchez,Goalkeeper,Brighton,False,45,45,11.6,6,10
+285,Alexander-Arnold,Defender,Liverpool,False,75,75,55.6,0,1
+306,Cancelo,Defender,Man City,False,70,70,45.1,9,16
+16,Gabriel,Defender,Arsenal,False,50,50,8.5,1,8
+146,James,Defender,Chelsea,False,60,60,39.3,0,7
+312,Dias,Defender,Man City,False,60,60,12.2,6,12
+283,Salah,Midfielder,Liverpool,False,130,130,62.6,0,12
+293,Luis Díaz,Midfielder,Liverpool,False,80,80,19.7,0,2
+19,Martinelli,Midfielder,Arsenal,False,61,60,27.5,7,15
+28,Jesus,Forward,Arsenal,False,80,80,70.8,16,18
+318,Haaland,Forward,Man City,True,116,115,58.7,5,18
+254,Ward,Goalkeeper,Leicester,False,40,40,26.5,1,2
+346,Andreas,Midfielder,Fulham,False,45,45,25.4,3,5
+83,Dasilva,Midfielder,Brentford,False,45,45,3.4,0,6
+54,Archer,Forward,Aston Villa,False,45,45,7.5,0,1
