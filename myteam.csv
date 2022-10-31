@@ -1,16 +1,16 @@
 id,web_name,position_y,team_name,is_captain,now_cost,selling_price,selected_by_percent,event_points,total_points
-113,Sánchez,Goalkeeper,Brighton,False,4.5,4.5,11.6,6,10
-285,Alexander-Arnold,Defender,Liverpool,False,7.5,7.5,55.6,0,1
-306,Cancelo,Defender,Man City,False,7.0,7.0,45.1,9,16
-16,Gabriel,Defender,Arsenal,False,5.0,5.0,8.5,1,8
-146,James,Defender,Chelsea,False,6.0,6.0,39.3,0,7
-312,Dias,Defender,Man City,False,6.0,6.0,12.2,6,12
-283,Salah,Midfielder,Liverpool,False,13.0,13.0,62.6,0,12
-293,Luis Díaz,Midfielder,Liverpool,False,8.0,8.0,19.6,0,2
-19,Martinelli,Midfielder,Arsenal,False,6.1,6.0,27.7,7,15
-28,Jesus,Forward,Arsenal,False,8.0,8.0,70.9,16,18
-318,Haaland,Forward,Man City,True,11.6,11.5,58.7,5,18
-254,Ward,Goalkeeper,Leicester,False,4.0,4.0,26.5,1,2
-346,Andreas,Midfielder,Fulham,False,4.5,4.5,25.4,3,5
-83,Dasilva,Midfielder,Brentford,False,4.5,4.5,3.4,6,12
-54,Archer,Forward,Aston Villa,False,4.5,4.5,7.5,0,1
+254,Ward,Goalkeeper,Leicester,False,4.1,4.0,26.2,3,43
+306,Cancelo,Defender,Man City,False,7.4,7.2,56.3,6,71
+106,Dunk,Defender,Brighton,False,4.7,4.6,5.5,2,37
+357,Trippier,Defender,Newcastle,False,5.8,5.4,61.9,11,77
+283,Salah,Midfielder,Liverpool,True,12.8,12.7,31.2,7,65
+19,Martinelli,Midfielder,Arsenal,False,6.8,6.4,49.0,8,68
+335,Rashford,Midfielder,Man Utd,False,6.6,6.6,16.7,8,58
+111,Trossard,Midfielder,Brighton,False,6.9,6.8,21.0,7,73
+318,Haaland,Forward,Man City,False,12.2,11.8,80.9,0,117
+28,Jesus,Forward,Arsenal,False,8.0,8.0,58.8,9,65
+356,Wilson,Forward,Newcastle,False,7.4,7.3,7.7,19,53
+133,Arrizabalaga,Goalkeeper,Chelsea,False,4.5,4.4,3.6,0,29
+346,Andreas,Midfielder,Fulham,False,4.6,4.5,25.4,3,53
+430,Dier,Defender,Spurs,False,5.3,5.2,11.0,1,48
+167,Guéhi,Defender,Crystal Palace,False,4.4,4.3,3.5,6,26
